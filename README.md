@@ -41,3 +41,5 @@ Train the model using a chosen algorithm.
 
 ### 9. Model Evaluation
 Predict on both training and testing sets and calculate accuracy.
+
+<!-- Anurag haldar -->
